@@ -34,7 +34,7 @@ Este projeto visa...
 
 - [Instagram](instagram.com/edwardcodebr)
 - [GitHub](github.com/edwardcodebr)
-- [Desenhos e Designs](x/carlcomp23)
+- [Desenhos e Designs](x.com/carlcomp23)
 
 ## Localização
 
