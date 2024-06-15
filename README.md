@@ -32,9 +32,9 @@ Este projeto visa...
 
 ## Redes Sociais
 
-- [Instagram](www.instagram.com/edwardcodebr)
-- [GitHub](www.github.com/edwardcodebr)
-- [Desenhos e Designs](www.x.com/carlcomp23)
+- [Instagram](https://instagram.com/edwardcodebr)
+- [GitHub](https://github.com/edwardcodebr)
+- [Desenhos e Designs](https://x.com/carlcomp23)
 
 ## Localização
 
