@@ -1,0 +1,105 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1f1f29;
+    color: #ffffff;
+    line-height: 1.6;
+}
+
+.fperfil{
+    border-radius: 50%;
+    height: 150px;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* Adicionado para distribuir os elementos */
+    padding: 10px; /* Adicionado espaçamento interno */
+    background-image: url('fotos/bannerp.jpg');
+}
+
+ul li a {
+    color: #ffffff;
+    font-weight: bold;
+    background-color: #00ccff;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    padding: 10px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: pointer;
+    list-style-type: none;
+}
+li{
+    list-style-type: none;
+}
+a {
+    color: #000000;
+    transition: color 0.3s;
+}
+
+a:hover {
+    color: #000000;
+}
+
+.lingua {
+    padding: 10px 15px;
+    background-color: #ff2b2b;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+section {
+    display: block;
+    margin: 0 auto;
+    width: 60%;
+    text-align: left;
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.contato {
+    width: 300px;
+    margin: 15px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    text-align: center;
+}
+
+.contatos img {
+    width: 150px;
+    height: 150px;
+    border-bottom: 1px solid #ddd;
+}
+
+.contatos h2 {
+    margin: 15px 0;
+    font-size: 1.5em;
+}
+
+.contatos a {
+    padding: 0 15px 15px;
+    color: #f3f3f3;
+}
+
+.projeto img {
+    width: 300px;
+}
+
+.linguas img{
+    height: 720px;
+    width: 1280px;
+}
+
+.desenho img{
+    height: 500px;
+    width: 500px;
+}
